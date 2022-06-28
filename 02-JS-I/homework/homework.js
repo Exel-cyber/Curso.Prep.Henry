@@ -1,3 +1,13 @@
+// producción escrita: 
+// STRINGS: tipo de dato informatico el cual siempre estara entre comillas
+// BOLEANOS: tipo de dato informatico, el cual retornara en true y false, según sea el caso.
+// VARIABLE: espacio de almecenamiento, que conformamos a traves de las palabras clave: var, const y let.
+// A esta la invocamos con un nombre que le otorgamos
+// FUNCIÓN: es un bloque de texto que realiza una operación
+// DECLARACIÓN: es un "filtro" por el cual colaremos respuestas.
+// con el fin de saber que tipo de dato estamos manejando, los cuales puede ser boleano, numeros o strings.
+
+
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
